@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://bokbok.github.io/weather/static/css/main.23faa85c.chunk.css",
-    "main.js": "https://bokbok.github.io/weather/static/js/main.fb062057.chunk.js",
-    "main.js.map": "https://bokbok.github.io/weather/static/js/main.fb062057.chunk.js.map",
+    "main.js": "https://bokbok.github.io/weather/static/js/main.36cf011b.chunk.js",
+    "main.js.map": "https://bokbok.github.io/weather/static/js/main.36cf011b.chunk.js.map",
     "runtime-main.js": "https://bokbok.github.io/weather/static/js/runtime-main.24755489.js",
     "runtime-main.js.map": "https://bokbok.github.io/weather/static/js/runtime-main.24755489.js.map",
     "static/js/2.ecaaee38.chunk.js": "https://bokbok.github.io/weather/static/js/2.ecaaee38.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.24755489.js",
     "static/js/2.ecaaee38.chunk.js",
     "static/css/main.23faa85c.chunk.css",
-    "static/js/main.fb062057.chunk.js"
+    "static/js/main.36cf011b.chunk.js"
   ]
 }
